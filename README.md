@@ -1,4 +1,5 @@
-# technical-interview
+# Technical Interview - Little Cinema
+
 Code Repo to submit technical interview responses for candidates
 
 1) Please select a number of questions from this doc to submit as a Pull Request for submission.
