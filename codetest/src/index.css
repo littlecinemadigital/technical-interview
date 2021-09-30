@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', 'Droid Sans', 'Helvetica Neue', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-size: 15px;
+}
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+    color: black;
+}
+.main {
+    width: 60vw;
+    min-width: 600px;
+    max-width: 1300px;
+    margin: 1em auto;
+}
+.question {
+    border-color: #ccc;
+}
+p {
+    font-weight: 600;
+    color: #a90000;
+}
+pre, .child {
+    margin: 3em auto;
+    border: 1px solid #a90000;
+    border-radius: 10px;
+    padding: 3em;
+    display: block;
+    white-space:break-spaces;
+}
+.child a {
+    font-size: 20px;
+    font-weight: bold;
+}
+.child small {
+    display: block;
+    text-align: right;
+    font-weight: bold;
+}
+.form input {
+    padding: 8px!important;
+}
+hr {
+    margin: 3em auto;
+}
+button {
+    display: block;
+    margin: 1em!important;
+}
+button a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    line-height: 2.5em;
+}
